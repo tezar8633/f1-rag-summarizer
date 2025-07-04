@@ -5,4 +5,4 @@ transformers
 sentence-transformers
 faiss-cpu
 scikit-learn
-request
+requests
